@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: 172.31.19.80
 tasks:
   - debug:
       msg: this msg only demo
